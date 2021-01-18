@@ -1,0 +1,132 @@
+Period: August 2012 - October 2012
+Employer: ON2IT
+Role: IT Security Consultant
+
+ON2IT had a too short on Brocade knowledge. For this I was deployed to further develop the “Zero Trust” concept.
+Various “Proof of Concepts” performed from Palo Alto & IBM. The confidentiality statement regarding these activities is so strict that I cannot make any statements except for an earlier appointment.
+
+Technologies that were often used are: secret
+Worked on: Brocade, Checkpoint, F5, Palo Alto, IBM 
+Period: September 2011 - September 2012
+Employer: 24 x 7 Holding
+Role: Manager Operations
+
+Rollout of the national Global Layer network. Selection of new data center as can be read in this press release. 
+
+Technologies that were widely used are: BGP, IS-IS, MPLS, QoS
+Worked on: Linux, Brocade NetIron MLX, Brocade NetIron XMR, Juniper EX switches
+Period: May 2010 - May 2013
+Employer: Slik 
+Role: Network Architect
+
+Slik is a small Rotterdam internet agency that has a fresh look at the web. This was the reason that they wanted to do as much as possible themselves and this has ensured that I managed to virtualize the environment which initially consisted of only physical servers to mainly virtual servers.
+
+What were my activities at Slik:
+    • Network management, System management and system design for Slik
+    • Installing, configuring and managing FreeBSD
+    • Advising management with regard to technical matters
+    • Advising management on strategic decision-making
+    • Setting up new switches for vSphere environment
+    • Setting up SAN for vSphere environment
+    • Building and testing HA / DRS cluster vSphere
+    • Convert from physical machines to the aforementioned vSphere cluster
+    • Contact person for technical problems, questions from colleagues regarding FreeBSD, apache, mysql, php and / or postfix
+
+Technologies that were widely used are: very diverse, SCRUM
+Worked was among others on: Juniper EX switches, Juniper M routers, VMware 
+Period: March 2009 - September 2010 
+Employer: Zadkine
+Role: System management
+
+My activities at Zadkine were:
+    • Solving major (cross-department) issues
+    • Coordinating the Service Desk department
+    • Novell Netware 6.5 management, solving problems in daily eDirectory use
+    • Solving operational problems on-site so that users can continue working again.
+    • Help for junior system administrators, sparring partner for other departments.
+    • Tug of war in migration to 'one-account strategy', to simplify the transition of users to Active Directory
+    • Responsible for the 1st concept of the Zadkine Incident Monitor an incident management system based on Limesurvey
+    • New desktop image v18.0 and v18.1 (with hardware recognition in the PXE environment)
+
+
+Technologies that were widely used are: FCoE, OSPF, RSTP, Novel Netware, Novel IDM, Active Directory
+Work was done on: Cisco N7k, Cisco 6509, HP Procurve switches, Dell servers & workstations
+Period : September 2008 - February 2009
+Employer: Parkpost
+Role: Employee IT
+
+Parkpost was looking to expand knowledge in the field of networks due to the expansion of the GlasFiberring Hilversum. 
+
+My work at Parkpostring
+    • Delivery of customer connections of the Glass fiberHilversum
+    • Responsible for configuration of equipment at the customer after delivery of the fiber optic connection
+    • Responsible for patching the fiber optic connection on the fiber optic ring in the data center at the Mediapark
+    • Advisory role with regard to various innovation processes
+    • Set up of environmental monitoring at the by Nimsoft NimBUS for reports on the issued SLA
+
+Technologies that were widely used are: BGP, OSPF, VSRP, RSTP
+Worked on: Brocade BigIron MG8, Brocade BigIron RX-series, Brocade FLS-switches, Brocade FESX- switches
+Period: September 2007 - September 2008
+Employer: ReasonNet
+Role: Network Manager
+
+My work at ReasonNet:
+    • Network prepared for extreme growth and large customers such as Hyves
+    • Structure designed for transition from single carrier network to a network with presence in London, Frankfurt, New York, Vienna
+    • Respons Ideal for merging the Rokscom Internet network into the ReasonNet IP Networks network
+    • Designing network configurations according to the wishes of customers 
+    • Managing 20 NOC employees who functioned on the basis of shift services to guarantee 24/7 availability - ensuring their knowledge level was adequate to be able to solve problems
+    • Internal training of Network Engineers
+    • Maintaining peering relationships and establishing new relationships
+    • Ensuring that customers had the best possible connection to the ReasonNet network on a daily basis
+
+Technologies that were widely used are: BGP, OSPF, VRRP (- E), RSTP, MRP, MPLS
+Worked on: Cisco routers & switches, Brocade routers & switches, Juniper routers & switches
+
+Period: January 2007 - August 2007
+Employer: We Dare 
+Role: Network Engineer
+
+My work at We Dare:
+    • Platform migration performed to accommodate future growth
+    • Invent new configuration for Brocade NetIron MLX and Brocade BigIron RX to replace Juniper M20 and Juniper M40 and Juniper M160
+    • Creating offers for customers according to their hardware needs - with emphasis on firewalls & routers
+    • We Dare network prepared for 10 Gigabit connectivity
+    • Reconfigurations made in the network of an ISP
+    • Research and implementation Metro Ring Protocol
+    • Debugging customer environments
+
+Technologies that were widely used are: BGP, OSPF, (R) STP, MRP
+Worked on: Juniper M-series, Brocade NetIron (MLX) -series, Extreme Summit -series, Juniper SSG-series
+
+Period: March 2006 - December 2006
+Employer: Net Ground
+Role: System management
+
+My activities at Net Ground:
+    • Keeping a server park of +/- 600 servers running independently
+    • Responsible for the move from Telecity3 (Redbus) to Global Switch - moves all machines via a project-based approach 
+    • Clusters formed for customers with high availability requirements
+    • Responsible for the delivery of new your dedicated servers based on FreeBSD or Linux
+    • Scripts made to automate the whole
+    • Realization mail scanning platform
+    • Realization firewall solutions for various customers
+
+Technologies that were widely used are: various
+Worked on: HP, Supermicro, Dell
+Period: July 2005 - February 2006
+Employer: Hosting Concepts
+Role: Helpdesk / System Administration
+
+My work at Hosting Concepts:
+    • Solving customer
+    • for improvement for the infrastructure of Hosting Concepts
+    • problems SuggestedSolving problems with Plesk, whether or not by escalating to Parallels (then Swsoft)
+    • pointsSolving management problems in HSP panel using Virtuozzo
+    • Support for customers with regard to the hosting environment
+    • FreeBSD source of information for colleagues
+    • Installation & configuration of HP Procurve switches
+    • Solving hardware problems on dedicated servers
+ 
+Technologies that were often used are: very diverse
+Work was done on: very diverse
