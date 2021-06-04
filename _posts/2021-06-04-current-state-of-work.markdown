@@ -23,7 +23,7 @@ I enjoy training people I do, I have 15+ years of experience currently mainly in
 
 So this was a little rant about what happened to me, now let’s go to the observations of trend for 2020-2021.
 
-One of the trends I applaud to:
+The trends I applaud to:
 - Working from Home : We’re not chair fillers management.
 - Flexibility : As a result of working from home, one can now in good chat with his/her manager and perhaps by him/her-self work on flexible schedule and with this create a greater work-life balance. 
 - Diversity : I see workforces hiring more females, however in my opinion and this is yet something that should be the next big thing we just not need to try and match gender ‘numbers’ but we need to find the best person for the job. It should never be about numbers but about the best person doing the job.
