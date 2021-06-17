@@ -41,7 +41,7 @@ Presentation time:
 I've presented my demo environment to the Mats, Jonas but this time [Marcus Friman](https://www.linkedin.com/in/marcus-friman-32a0434/) so basically I had the whole former Netrounds team to present too. Something happened before the presentation that made me lost my Zen, this is obviously no execuse but this is reality, so in my own evaluation my presentation was far from my Best one given ever but not my worst either.
 Was able to handle the questions fired at me, even through one cannot be completely comfortable about an product one hasn't touched before.
 <br>
-Now the big question my [wife](about/elena) asked me is "Would you like to be a Solution Architect" for Paragon Active Assurance, my answer was YES to this. I believe my knowledge in the Enterprise & Service Provider world can make difference to rolling out this solution. 
+Now the big question my [wife](http://expertlevel.blog/about/elena) asked me is "Would you like to be a Solution Architect" for Paragon Active Assurance, my answer was YES to this. I believe my knowledge in the Enterprise & Service Provider world can make difference to rolling out this solution. 
 
 Let's wait upon their feedback about my performance and what the next steps would be. I think the former Netrounds team are awesome guys to work with if I get the chance too.
 

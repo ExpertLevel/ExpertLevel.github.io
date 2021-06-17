@@ -54,7 +54,7 @@ So my recommendation of shells is either:
 2. Zsh - Enhanced with Oh-My-Zsh will give you git integrations too and fancy themes there is one for everyone’s liking for sure.
 
 
-Both of them would do a great job! Taking my [wife](about/elena) as a baseline I would unleash her on Bash sooner than Zsh. 
+Both of them would do a great job! Taking my [wife](http://expertlevel.blog/about/elena) as a baseline I would unleash her on Bash sooner than Zsh. 
 
 However she needs to decide for herself what is the best tool, I can only tell her what I like and what I don’t like about various shells this comes from twenty years of ‘dirt’ through various shells. 
 
